@@ -60,9 +60,9 @@ Java
 ## Project Requirements 
 JDK
 
-## How To Run
-Clone Project
-Save input file as input.txt
+
+
+
 
 
 
