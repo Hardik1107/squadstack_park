@@ -60,6 +60,14 @@ Java
 ## Project Requirements 
 JDK
 
+## How to Run 
+cd java
+
+javac squadstack/beans/DriverInfo.java squadstack/constants/InputFileConstants.java squadstack/DataProcessor.java squadstack/Executor.java squadstack/DataProcessorImpl.java squadstack/FileProcessor.java squadstack/FileProcessorImpl.java
+
+java squadstack/Executor input.txt
+
+
 
 
 
